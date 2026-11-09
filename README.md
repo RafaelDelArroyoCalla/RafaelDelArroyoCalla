@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://rafaeldelarroyocalla.github.io"><img src="https://img.shields.io/badge/Mi%20portafolio-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Correo-22d3ee?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dacrafaelraul@gmail.com"><img src="https://img.shields.io/badge/Correo-22d3ee?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/rafael-del-arroyo-95395b221/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 🛠️ Tecnologías
@@ -33,6 +33,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDelArroyoCalla&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📌 Proyectos destacados
 
-Fíjalos en tu perfil con *Customize your pins*.
